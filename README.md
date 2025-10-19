@@ -54,3 +54,4 @@ Verifica que los datos efectivamente se guardan o cambian en la base de datos, y
 Este backend permite que la parte visual (front-end) funcione correctamente: recibe las solicitudes del usuario, procesa los datos, 
 los persiste en la base de datos y devuelve las respuestas. Gracias a este código podemos tener un sistema completo que guarda, 
 consulta, actualiza y elimina información de forma organizada para tener información de usuarios y/o añadirlos al react.
+
